@@ -10,8 +10,7 @@
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-JavaScript   22 mins         ██████████████████░░░░░░░   72.20 % 
-Markdown     6 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.27 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
