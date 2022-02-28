@@ -9,9 +9,11 @@
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
+
 ```text
-No Activity tracked this Week
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 
 [![](https://github-readme-stats.vercel.app/api?username=dzencot&theme=gruvbox)](https://github.com/dzencot)
